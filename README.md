@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-glove.6B.50d.txt - This file can be downloaded from https://nlp.stanford.edu/projects/glove/
+* Sentiment analysis is analysis of the sentence that gives the opinion of the sentence. In this project, it will be implemented a model which inputs a sentence and gives the appropriate emoji to be used with sentence.
